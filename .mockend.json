@@ -1,7 +1,7 @@
 {
     "Project": {
         "title": {
-            "loremWords": { "minLength": 5, "maxLength": 20 }
+            "loremSentences": { "minLength": 5, "maxLength": 20 }
         }
     }
 }
