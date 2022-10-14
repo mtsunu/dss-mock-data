@@ -3,21 +3,5 @@
         "title": {
             "loremWords": { "minLength": 5, "maxLength": 20 }
         }
-    },
-    "Issue": {
-        "title": {
-            "loremWords": { "minLength": 5, "maxLength": 20 }
-        },
-        "category": {
-            "belongsTo": "IssueCategory"
-        },
-        "project": {
-            "belongsTo": "Project"
-        }
-    },
-    "IssueCategory": {
-        "name": {
-            "loremWords": { "minLength": 1, "maxLength": 3 }
-        }
     }
 }
