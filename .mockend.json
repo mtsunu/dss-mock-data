@@ -4,7 +4,7 @@
             "loremWords": { "minLength": 5, "maxLength": 20 }
         }
     },
-    "Issuecategory": {
+    "Issue-Category": {
         "name": {
             "loremWords": { "minLength": 1, "maxLength": 3 }
         }
