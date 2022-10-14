@@ -1,7 +1,12 @@
 {
     "Project": {
         "title": {
-            "loremSentences": { "minLength": 5, "maxLength": 20 }
+            "loremWords": { "minLength": 5, "maxLength": 20 }
+        }
+    },
+    "IssueCategory": {
+        "name": {
+            "loremWords": { "minLength": 1, "maxLength": 3 }
         }
     }
 }
