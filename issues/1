@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "description": "COD kontraktual SKTT Bekasi II/ Summarecon – Traksi Halim, GIS Bekasi II, dan GIS Poncol Baru II telah terlewati lagi dan lagi.",
+  "project": {
+    "id": 1,
+    "title": "GIS 150 kV Halim dan Extension 2 LB GIS Summarecon dan Extension 2 LB Poncol Baru II"
+  },
+  "category": {
+    "id": 1,
+    "name": "Energi Primer"
+  }
+}
