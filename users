@@ -18,5 +18,25 @@
   {
     "id": 5,
     "name": "Rigen Rakelna"
+  },
+  {
+    "id": 6,
+    "name": "Soergo Bakti"
+  },
+  {
+    "id": 2,
+    "name": "Boris Bokir"
+  },
+  {
+    "id": 3,
+    "name": "Tony Stark"
+  },
+  {
+    "id": 4,
+    "name": "Peter Parker"
+  },
+  {
+    "id": 5,
+    "name": "Nick Fury"
   }
 ]
